@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ffaab71bc3e11210d39b944ed4013131" label="NewUsers" max_length="40" name="x_1539348_usermana_newusers" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Name" max_length="256" name="name" type="string"/>
+    </element>
+</database>
